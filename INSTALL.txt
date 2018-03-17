@@ -1,0 +1,1 @@
+Put the "APDS9960_NonBlocking" folder in your Arduino "libraries" folder. 

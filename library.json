@@ -1,0 +1,16 @@
+{
+  "name": "APDS9960_NonBlocking",
+  "keywords": "APDS9960, gesture, nonblocking, I2C",
+  "description": "APDS9960 NonBlocking library for Arduino over I2C with PCF8574P",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveQuinn1/APDS9960_NonBlocking"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
