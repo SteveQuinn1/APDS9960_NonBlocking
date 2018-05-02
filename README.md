@@ -6,7 +6,7 @@ By Steve Quinn
 
 Written to support the following Instructable;
 
-https://www.instructables.com/id/ TBA
+https://www.instructables.com/id/NonBlocking-APDS9960-Gesture-Sensor-Implementation
 
 
 ### APDS9960 NonBlocking System Overview
